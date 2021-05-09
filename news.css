@@ -1,0 +1,28 @@
+.background-news {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.newscard {
+    background-color: white;
+    padding: 10px;
+}
+
+.heading-news {
+    color: #323f4b;
+    font-size: 10px;
+    font-family: 'Roboto';
+}
+
+.paragraph-news {
+    font-family: 'Roboto';
+    color: #7b8794;
+    font-size: 15px;
+}
+
+.newsbutton {
+    color: #ffffff;
+    border-radius: 15px;
+
+}

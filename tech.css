@@ -1,0 +1,47 @@
+.bg-technology-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.mainheading {
+    font-family: 'Roboto';
+    color: #5752ab;
+}
+
+.advancedcard {
+    background-color: #ffffff;
+    padding: 25px;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+}
+
+.button1 {
+
+    color: #ffffff;
+    background-color: #5752ab;
+    width: 126px;
+    height: 38px;
+    border-style: solid;
+    margin-left: 5px;
+    border-width: 1px;
+
+    border-radius: 8px;
+}
+
+.button2 {
+    background-color: #ffffff;
+    border-color: #171f46;
+    width: 126px;
+    height: 38px;
+    border-style: solid;
+    margin-right: 5px;
+    border-width: 1px;
+    border-color: #d7dfe9;
+    border-radius: 8px;
+
+}
+
+.paragraph {
+    color: #323f4b;
+}

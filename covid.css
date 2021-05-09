@@ -1,0 +1,93 @@
+.mainheading {
+    color: #323f4b;
+    font-family: 'Roboto';
+    font-size: 25px;
+}
+
+.covid-image {
+    width: 48px;
+    height: 48px;
+    margin: 10px;
+}
+
+.button {
+    color: #ffffff;
+    background-color: #0967d2;
+    font-size: 12px;
+    font-weight: 500;
+    width: 85px;
+    height: 30px;
+    border-width: 0px;
+    border-radius: 8px;
+}
+
+.covid-container {
+    border-style: solid;
+    border-width: 5px;
+    border-color: #0967d219;
+}
+
+.button-container {
+    text-align: center;
+
+}
+
+.topsection {
+    background-color: white;
+
+}
+
+.covid-card {
+    background-color: #0967d219;
+    border-radius: 10px;
+}
+
+.symptoms-heading {
+    Font-family: 'Roboto';
+    color: #323f4b;
+}
+
+.covid-heading {
+    font-family: 'Roboto';
+    color: #323f4b;
+}
+
+.covid-paragraph {
+    font-family: 'Roboto';
+    color: #707070;
+    font-weight: 500;
+
+}
+
+.symptoms-card {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+.symptoms-card-heading1 {
+    border-radius: 10px;
+    background-color: #3ebd93;
+    margin: 8px;
+}
+
+.symptoms-card-heading2 {
+    border-radius: 10px;
+    background-color: #e668a7;
+    margin: 8px;
+}
+
+.symptoms-card-heading3 {
+    border-radius: 10px;
+    background-color: #a368fc;
+    margin: 8px;
+}
+
+.button-container {
+    text-align: center;
+}
+
+.videoscard {
+    background-color: #e12d3919;
+    border-radius: 10px;
+}

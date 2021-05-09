@@ -1,0 +1,85 @@
+.topsection {
+    background-color: #fb4e71;
+    background-size: cover;
+    height: 30vh;
+}
+
+.mainheading {
+    color: white;
+    font-family: 'Roboto';
+    font-size: 28px;
+    padding: 10px;
+}
+
+.paragraph1 {
+    font-family: 'Roboto';
+    color: #ffffff;
+    font-size: 14px;
+    padding: 10px;
+}
+
+.bottomsection {
+    background-color: #e6f6ff;
+}
+
+.bottomcard {
+    border-radius: 15px;
+    background-color: #ffffff;
+}
+
+.heading2 {
+    color: #323f4b;
+    font-size: 20px;
+}
+
+.heading3 {
+    color: #888888;
+    font-size: 20px;
+}
+
+.videosheading {
+    color: #323f4b;
+    font-size: 23px;
+}
+
+.paragraph2 {
+    color: #888888;
+    font-size: 18px;
+}
+
+.videocard1 {
+    border-radius: 10px;
+}
+
+.paragraphvideo1 {
+    font-size: 13px;
+    color: #888888;
+}
+
+.videocard2 {
+    border-radius: 10px;
+}
+
+.paragraphvideo2 {
+    font-size: 13px;
+    color: #888888;
+}
+
+.videocard3 {
+    border-radius: 10px;
+    background-color: white;
+}
+
+.buttoncontainer {
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+
+}
+
+
+
+.paragraphvideo3 {
+    font-size: 13px;
+    color: #888888;
+}
